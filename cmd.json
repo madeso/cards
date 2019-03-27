@@ -1,0 +1,71 @@
+[
+  {
+    "svg": "Cards-Inkscape.svg",
+    "dpi": [96],
+    "sub": [
+        {"id": "rect25090", "png": "joker-red"}
+      , {"id": "rect11559", "png": "joker-black"}
+
+      , {"id": "path20813-8", "png": "spades"}
+      , {"id": "rect7335", "png": "spades/1"}
+      , {"id": "rect7463", "png": "spades/2"}
+      , {"id": "rect7583", "png": "spades/3"}
+      , {"id": "rect8295", "png": "spades/4"}
+      , {"id": "rect8447", "png": "spades/5"}
+      , {"id": "rect7735", "png": "spades/6"}
+      , {"id": "rect7871", "png": "spades/7"}
+      , {"id": "rect8067", "png": "spades/8"}
+      , {"id": "rect8583", "png": "spades/9"}
+      , {"id": "rect8815", "png": "spades/10"}
+      , {"id": "rect15735", "png": "spades/11"}
+      , {"id": "rect16525", "png": "spades/12"}
+      , {"id": "rect17333", "png": "spades/13"}
+
+      , {"id": "path27311", "png": "clubs"}
+      , {"id": "rect7311", "png": "clubs/1"}
+      , {"id": "rect7491", "png": "clubs/2"}
+      , {"id": "rect7615", "png": "clubs/3"}
+      , {"id": "rect8331", "png": "clubs/4"}
+      , {"id": "rect8487", "png": "clubs/5"}
+      , {"id": "rect7779", "png": "clubs/6"}
+      , {"id": "rect7823", "png": "clubs/7"}
+      , {"id": "rect8015", "png": "clubs/8"}
+      , {"id": "rect8527", "png": "clubs/9"}
+      , {"id": "rect8751", "png": "clubs/10"}
+      , {"id": "rect15951", "png": "clubs/11"}
+      , {"id": "rect16737", "png": "clubs/12"}
+      , {"id": "rect17547", "png": "clubs/13"}
+
+      , {"id": "path7364", "png": "hearts"}
+      , {"id": "rect7359", "png": "hearts/1"}
+      , {"id": "rect7435", "png": "hearts/2"}
+      , {"id": "rect7551", "png": "hearts/3"}
+      , {"id": "rect8259", "png": "hearts/4"}
+      , {"id": "rect8407", "png": "hearts/5"}
+      , {"id": "rect7691", "png": "hearts/6"}
+      , {"id": "rect7919", "png": "hearts/7"}
+      , {"id": "rect8119", "png": "hearts/8"}
+      , {"id": "rect8639", "png": "hearts/9"}
+      , {"id": "rect8879", "png": "hearts/10"}
+      , {"id": "rect15461", "png": "hearts/11"}
+      , {"id": "path10260", "png": "hearts/12"}
+      , {"id": "rect17143", "png": "hearts/13"}
+
+      , {"id": "rect7372", "png": "diamonds"}
+      , {"id": "rect7383", "png": "diamonds/1"}
+      , {"id": "rect7407", "png": "diamonds/2"}
+      , {"id": "rect7519", "png": "diamonds/3"}
+      , {"id": "rect8223", "png": "diamonds/4"}
+      , {"id": "rect8367", "png": "diamonds/5"}
+      , {"id": "rect7647", "png": "diamonds/6"}
+      , {"id": "rect7967", "png": "diamonds/7"}
+      , {"id": "rect8171", "png": "diamonds/8"}
+      , {"id": "rect8695", "png": "diamonds/9"}
+      , {"id": "rect8943", "png": "diamonds/10"}
+      , {"id": "rect15247", "png": "diamonds/11"}
+      , {"id": "rect16149", "png": "diamonds/12"}
+      , {"id": "rect16943", "png": "diamonds/13"}
+    ]
+  }
+]
+
